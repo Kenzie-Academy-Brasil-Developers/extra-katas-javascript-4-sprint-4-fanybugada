@@ -4,7 +4,7 @@
 
 Para começar, acesse [este link](https://gitlab.com/kenzie-academy-brasil/se/fe/getting-started-with-javascript/s_js-katas-4), faça o fork e clone o repo.
 
-
+ 
 Um [kata](https://en.wikipedia.org/wiki/Kata_(programming)) é um exercício individual onde você pratica uma habilidade de programação repetidamente. Você usará os katas nesta avaliação para praticar a escrita de funções Javascript que usam loops, condicionais, expressões e arrays.
 
 Você criará uma única página para exibir o resultado de cada uma de suas funções com um cabeçalho identificando cada exercício individual seguido de sua solução. **Todos os resultados dos katas individuais precisam ser exibidos usando `document.createElement()` e métodos associados.** Depois de adicionar o resultado da sua função à página, cada função deve usar a sentença 'return' para retornar seu resultado.

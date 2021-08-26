@@ -1,1 +1,25 @@
 /* você pode estilizar se quiser !!! */
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: lavender;
+    color: black;
+}
+
+.mainTag {
+    margin: 15px;
+    background-color: rgba(121, 19, 255, 0.1);
+    box-shadow: rgb(0 0 0 / 50%) 0px 5px 15px;
+}
+
+h3 {
+    margin-left: 10px;
+}
+
+h4 {
+    margin-left: 10%;
+    color: darkslateblue;
+}
